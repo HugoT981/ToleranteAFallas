@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document</title>
+</head>
+<style>
+     .cols {
+  display: flex;
+}
+
+.cols div {
+  flex: 1;
+  border-radius: 10px;
+}
+img{
+     border-radius: 10px;
+}
+
+.col1 {
+     margin-right: 50px;
+}
+
+.col2 {
+     margin-right: 50px;
+
+}
+
+p {
+  margin: 1em;
+}
+</style>
+<body>
+     
+     <div class="cols">
+          <div class="col1">
+               <a href="{{ url_for('home') }}"><img src="https://giphy.com/static/img/giphy-be-animated-logo.gif" alt="" width="100%"></a>
+               <h1 style="font-family: WebDeveloper; text-align:center;">GIPHY</h1>
+          </div>
+          <div class="col2">
+               <a href="{{ url_for('marvel') }}"><img src="https://svgsilh.com/svg/151393.svg" alt="" width="100%"></a>
+               <h1 style="font-family: WebDeveloper; text-align:center;">MARVEL</h1>
+          </div>
+          <div class="col2">
+               <a href="{{ url_for('index') }}"><img src="https://svgsilh.com/svg/1728494.svg" alt="" width="125%"></a>
+               <h1 style="font-family: WebDeveloper; text-align:center;">DOG</h1>
+          </div>
+          <div class="col2">
+               <a href="{{ url_for('pokemon') }}"><img src="https://svgsilh.com/svg/311384.svg" alt="" width="200%"></a>
+               <h1 style="font-family: WebDeveloper; text-align:right;">CoD SKINS</h1>
+          </div>
+        </div>
+</body>
+</html>
