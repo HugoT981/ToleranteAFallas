@@ -2,20 +2,20 @@
 	
 👉Aplicación web desplegada en Flask para el consumo de distintas APIS
 	
-![image](https://github.com/HugoT981/ToleranteAFallas/assets/89029549/54834769-d950-4a39-ae14-7bdffacc0d62)
+![image](https://github.com/HugoT981/ToleranteAFallas/assets/89029549/fdcb61a2-f203-4090-80f1-2dcb0ee0de52)
 	
 # 🔗APIS en uso:
  - **✨GIPHY:** API que nos ayuda a generar búsquedas de gifs de cualquier tema.
- - **🕷MARAVILLA:** API que nos muestra varios personajes de marvel, dando clic en alguno, se direccionará a la página de marvel en donde se encontrarán los comics donde aparece dicho personaje.
- - **🐶PERRO:** API que nos muestra una imagen random de alguna raza de perritos, pero en la barra de búsqueda podremos buscar alguna raza en específico.
- - **💣PIELES DE BACALAO:** API en fase de pruebas.
+ - **🕷MARVEL:** API que nos muestra varios personajes de marvel, dando clic en alguno, se direccionará a la página de marvel en donde se encontrarán los comics donde aparece dicho personaje.
+ - **🐶DOG:** API que nos muestra una imagen random de alguna raza de perritos, pero en la barra de búsqueda podremos buscar alguna raza en específico.
+ - **💣CoD SKINS:** API en fase de pruebas.
 
 # 👥Autores:
- 👦 Hernandez Ángel	
+ 👦 Ángel Hernández
 	
- 👱‍♀️ Ochoa Leos Melanie Alejandra
+ 👱‍♀️ Melanie Ochoa
 	
- 🧑 Suárez Torres Hugo Enrique
+ 🧑 Hugo Suárez
 	
 # 🌐Tecnologías en uso:
  - HTML
