@@ -96,7 +96,7 @@ Para ver las métricas, el tráfico y estadísticas de los pods y servicios, eje
 # 📌Por último:
 El propósito de este proyecto es mostrar alguna forma de tolerancia a fallas, en nuestro caso, dentro de nuestra app.
 	
-Esto nosotros lo aplicamos y llevamos a cabo al momento de presionar la última de las APIs, la llamada "Pieles de Bacalao", y lo que hace es que nos direcciona a una página de error en donde permanecemos por 4 segundos y después somos direccionados autómaticamente a nuestra página de inicio.
+Esto nosotros lo aplicamos y llevamos a cabo al momento de presionar la última de las APIs, la llamada "CoD Skins", y lo que hace es que nos direcciona a una página de error en donde permanecemos por 4 segundos y después somos direccionados autómaticamente a nuestra página de inicio.
 	
 ![image](https://github.com/HugoT981/ToleranteAFallas/assets/89029549/b38435ce-b8fd-4559-9d73-d5b67ec7ba28)
 
